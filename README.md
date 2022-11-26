@@ -7,5 +7,5 @@ See *this* in italic, **this** in bold and [Link] (https:saltproject.io) that wa
 
 * Salt
 * CM
-* Blogging: https://kyberlaakso.wordpress.com/
+* Blogging: [Link] (https://kyberlaakso.wordpress.com/)
 * Git
